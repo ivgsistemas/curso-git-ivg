@@ -8,3 +8,7 @@ Autor: Dr.IVg
 
 - Git: control de versiones.
 - GitHub: alojamiento remoto de proyectos.
+
+## Trabajo con ramas
+
+Esta modificación se realizó en la rama practica-readme.
